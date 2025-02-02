@@ -1,0 +1,11 @@
+## CREATING A NEW CLASS FROM AN EXISTING CLASS
+
+class Employee: // BASE CLASS 
+# CODE 
+
+
+class Programmer(Employee): // DERIVED OR CHILD
+# CAN ACCESS ALL THE METHODS 
+# CODE 
+
+
